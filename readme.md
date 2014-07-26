@@ -44,5 +44,3 @@ KPU.go.id API:
      
      Example2: BALI(53241)|JEMBRANA(53242)|MENDOYO(53256)
      http://pilpres2014.kpu.go.id/da1.php?cmd=select&grandparent=53242&parent=53256
-     
-     </summary>
