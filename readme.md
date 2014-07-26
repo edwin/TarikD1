@@ -1,6 +1,9 @@
-TarikD1
+TarikDA1
 ===========
-A simple Java crawler to get KPU D1 Results, inspired from Henry Tan's [Pilpres2014] (https://github.com/ht4n/Pilpres2014).
+A simple Java crawler to get KPU DA1 Results, inspired from Henry Tan's [Pilpres2014] (https://github.com/ht4n/Pilpres2014).
+DA1 Data is from SubDistricts to Villages.
+DB1 Data is from Regencies to SubDistricts.
+DC1 Data is from Province to Regencies. 
 
 Tools
 -------------------
